@@ -1,31 +1,41 @@
 ---
-title: WordPress Development Environments
+title: WordPress Theme Frameworks
 ---
 
-# WordPress Development Environments
+# WordPress Theme Frameworks
 
-There are several modern choices for developing WordPress locally. If your development machine is set up for PHP and MySQL, you can use your existing setup, however, there are more modern setups that will allow you to change configurations and build pipelines more easily.
+Starting a WordPress theme from scratch and be a time consuming and intimidating process for newer developers. Ensuring that you have covered every aspect of developing a good theme can be daunting. Luckily, there is a way to jump-start your theme development and still cover your bases; theme frameworks.
 
-## Docker: WordPress _(Recommended)_
+Here are a few of the more popular theme frameworks available currently.
 
-If you are familiar with Docker and containerization of development environments, there is an official WordPress Docker image available in the Docker Hub (link below). Need more information about Docker? Visit the official website at [https://www.docker.com/](https://www.docker.com/).
+## Premium Frameworks
 
-Official Site: [WordPress Docker](https://hub.docker.com/_/wordpress/)
+### Genesis Framework
 
-## Local by Flywheel
+Genesis Framework by StudioPress is one of the longest standing and most robust WordPress theme frameworks. This framework comes out of the box with tons of functionality build in, good SEO in mind and is very extensible. In addition to having the functionality needed to build your custom themes, there are many child themes that can be purchased to get you closer to your end result with less design and development time.
 
-If you would prefer to have a GUI to manage your virtual machine setups for WordPress development, Flywheel has developed an application that can do just that. Local by Flywheel is available for both Mac and Windows.
+Official Site: [https://www.studiopress.com/](https://www.studiopress.com/)
+Cost: $59.95
 
-Official Site: [Local by Flywheel](https://local.getflywheel.com/)
+### Thesis Framework
 
-## MAMP
+The Thesis Framework by DIY Themes has been around a very long time and is one of the more well known WordPress theme frameworks. The newest version of the Thesis Framework, Thesis 2.0 brings a few new concepts including boxes, skins and site tools.
 
-If you are developing locally on a Mac computer, you can set up a local PHP/MYSQL stack to develop with by using the MAMP application (stands for **M**acintosh, **A**pache, **M**ySQL, and **P**HP).
+Official Site: [http://diythemes.com/](http://diythemes.com/)
+Cost: $87
 
-Official Site: [https://www.mamp.info/en/](https://www.mamp.info/en/)
+## Free Frameworks
 
-## XAMPP
+### Cherry Framework
 
-If you are developing locally on a Windows computer, you can set up a local PHP/MYSQL stack to develop with by using the XAMPP application.
+The Cherry Framework has gone through a ver revisions, but remains on of the top free WordPress theme frameworks available. It contains a robust feature set that rivals some of the other premium frameworks on the market.
 
-Official Site: [https://www.apachefriends.org/index.html](https://www.apachefriends.org/index.html)
+Official Site: [http://www.cherryframework.com/](http://www.cherryframework.com/)
+Cost: FREE
+
+### Gantry Framework
+
+The Gantry Framework hails itself as the "Next Generation Theme Framework". This framework contains a large feature set that touts "no experience required" to work with. Solid concepts and a clean interface will make this framework one you should check out.
+
+Official Site: [http://gantry.org/](http://gantry.org/)
+Cost: FREE
